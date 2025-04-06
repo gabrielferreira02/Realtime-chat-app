@@ -15,9 +15,10 @@ This is a simple study project to learn more about websocket protocol. In this p
 >[!NOTE]
 > How to run
 
-1 - To run this project i created a dockerfile, so you can build the image and running this one without needing to have Java installed on your machine. But fisrt you need to clone this repository using: 
+1 - To run this project i created a dockerfile, so you can build the image and running this one without needing to have Java installed on your machine. But fisrt you need to clone this repository and go to generated folder using: 
 ```bash
   git clone https://github.com/gabrielferreira02/Realtime-chat-app.git
+  cd Realtime-chat-app
 ```
 
 2 - Then you need to generate jar application file
